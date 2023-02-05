@@ -6,7 +6,7 @@ Nama Kelompok :
 2. Leandra Chika Gayatri ()
 3. Mulzahrian (2602198365)
 4. Salsabila Shofi ()
-5. Winanda Sisilia Sinaga ()
+5. Winanda Sisilia Sinaga (2602178590)
 Instalation
 
 follow the instructions below:
