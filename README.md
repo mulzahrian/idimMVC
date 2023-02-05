@@ -3,7 +3,7 @@ tugas Kelompok IDIM 5 binus
 
 Nama Kelompok : 
 1. Elizabeth Manogi ()
-2. Leandra Chika Gayatri ()
+2. Leandra Chika Gayatri (2602172353)
 3. Mulzahrian (2602198365)
 4. Salsabila Shofi ()
 5. Winanda Sisilia Sinaga (2602178590)
