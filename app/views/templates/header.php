@@ -18,6 +18,13 @@
         <div class="navbar-nav">
           <a class="nav-item nav-link active" href="<?= BASEURL; ?>">Home <span class="sr-only">(current)</span></a>
           <a class="nav-item nav-link" href="<?= BASEURL; ?>/barang">Barang</a>
+          <a class="nav-item nav-link" href="<?= BASEURL; ?>/akses">Hak Akses</a>
+          <a class="nav-item nav-link" href="<?= BASEURL; ?>/pelanggan">Pelanggan</a>
+          <a class="nav-item nav-link" href="<?= BASEURL; ?>/pembelian">Pembelian</a>
+          <a class="nav-item nav-link" href="<?= BASEURL; ?>/penjualan">Penjualan</a>
+          <a class="nav-item nav-link" href="<?= BASEURL; ?>/suplier">Suplier</a>
+          <a class="nav-item nav-link" href="<?= BASEURL; ?>/pengguna">Pengguna</a>
+          <a class="nav-item nav-link" href="<?= BASEURL; ?>/report">Report perhitungan Penjualan</a>
         </div>
       </div>
   </div>
