@@ -22,7 +22,7 @@ git clone https://github.com/mulzahrian/idimMVC.git
 ```
 http://localhost/phpmyadmin/
 ```
-> - export file sql untuk di jadikan db di database
+> - import file sql untuk di jadikan db di database di dalam folder DATABASE
 > - jika sudah selesai running menggunakan link di bawah ini   
 ```
 http://localhost/idimMVC/public
