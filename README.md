@@ -5,7 +5,7 @@ Nama Kelompok :
 1. Elizabeth Manogi (2602174636)
 2. Leandra Chika Gayatri (2602172353)
 3. Mulzahrian (2602198365)
-4. Salsabila Shofi ()
+4. Salsabila Shofi (2602201725)
 5. Winanda Sisilia Sinaga (2602178590)
 Instalation
 
